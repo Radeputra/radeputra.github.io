@@ -8,6 +8,7 @@ Website portofolio statis (HTML, CSS, JavaScript).
 3. Klik kanan `index.html` lalu pilih **Open with Live Server**.
 
 ## Yang perlu diganti
+- Nomor WhatsApp: ubah `628980720905` di `index.html` (format 62, tanpa 0 dan tanpa +)
 - Email dan tautan sosial di bagian Kontak
 - Foto profil (taruh di `assets/images/`)
 - Isi Tentang, Pengalaman, dan Tulisan
